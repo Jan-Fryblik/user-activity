@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#open blank terminal            
+cd /home/ && Eterm &
